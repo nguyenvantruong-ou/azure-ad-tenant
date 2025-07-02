@@ -1,0 +1,256 @@
+# Build results
+bin/
+obj/
+out/
+artifacts/
+publish/
+TestResults/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio cache/options
+.vs/
+.localhistory/
+*.pidb
+
+# Rider/JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# MSTest, NUnit, xUnit test results
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+**/packages/*
+!**/packages/build/
+
+# Node.js
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup & temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+
+# ReSharper, Rider, DotCover, NCrunch, etc.
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.dotCover
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Azure
+*.azurePubxml
+*.publishsettings
+PublishScripts/
+csx/
+*.build.csdef
+ecf/
+rcf/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Paket
+.paket/
+paket-files/
+
+# Python Tools for Visual Studio
+__pycache__/
+*.pyc
+
+# Fody
+FodyWeavers.xsd
+
+# Ignore efpt.config.json if present in your project
+SMT_backend/efpt.config.json
+
+# Build results
+bin/
+obj/
+out/
+artifacts/
+publish/
+TestResults/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio cache/options
+.vs/
+.localhistory/
+*.pidb
+
+# Rider/JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# MSTest, NUnit, xUnit test results
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+**/packages/*
+!**/packages/build/
+
+# Node.js
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup & temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+
+# ReSharper, Rider, DotCover, NCrunch, etc.
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.dotCover
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Azure
+*.azurePubxml
+*.publishsettings
+PublishScripts/
+csx/
+*.build.csdef
+ecf/
+rcf/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Paket
+.paket/
+paket-files/
+
+# Python Tools for Visual Studio
+__pycache__/
+*.pyc
+
+# Fody
+FodyWeavers.xsd
+
+# Ignore efpt.config.json if present in your project
+smt-backend/efpt.config.json
+
+# Ignore any other sensitive or local config files as needed
+
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Env files
+.env
+.env.*.local
+
+# Coverage reports
+coverage/
+
+# Misc
+*.local
+*.log
+*.tmp
+
+# Optional: If you use testing frameworks that generate snapshots
+__snapshots__/
+
