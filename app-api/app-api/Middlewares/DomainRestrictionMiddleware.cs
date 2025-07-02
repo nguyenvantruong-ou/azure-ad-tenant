@@ -3,7 +3,7 @@
     public class DomainRestrictionMiddleware
     {
         private readonly RequestDelegate _next;
-        private readonly string _allowedDomain = "@orientsoftware.com";
+        private readonly string _allowedDomain = "@domain.com";
 
         public DomainRestrictionMiddleware(RequestDelegate next)
         {

@@ -9,7 +9,7 @@ const App = () => {
     if (accounts.length === 0) return;
 
     const username = accounts[0]?.username;
-    if (username && !username.endsWith("@orientsoftware.com")) {
+    if (username && !username.endsWith("@domain.com")) {
       alert("You are not allowed to login with this domain");
       instance.logoutRedirect();
     }
